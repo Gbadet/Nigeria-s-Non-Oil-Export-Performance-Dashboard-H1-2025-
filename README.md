@@ -62,11 +62,7 @@ These markets remain critical drivers of non-oil revenue.
 
 ## 🛠 Tools & Technologies
 
-- Python  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Dashboard storytelling principles  
+- Power BI  
 
 ---
 
