@@ -2,7 +2,7 @@
 
 A data visualization project analyzing **Nigeria’s Non-Oil Export Performance for H1 2025**, highlighting growth trends, sector contributions, target progress, and policy impact insights.
 
-![Dashboard Preview](./9d654d9c-7351-48db-894e-8070b8ee6381.png)
+![Dashboard Preview](./image.png)
 
 ---
 
